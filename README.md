@@ -1,8 +1,6 @@
 # Personal Portfolio Website
 This repository contains the source code and assets for my Personal Portfolio Website. The purpose of this website is to showcase my Skills, Projects, and Interests.
 
-View the Website here -> https://agkush.github.io/MyWebsite/
-
 ## Features
 * Responsive Design: The website is designed to adapt and provide an optimal viewing experience across various devices and screen sizes.
 * Home Page: Introduce myself and provide a brief overview of my background and expertise.
@@ -26,11 +24,5 @@ View the Website here -> https://agkush.github.io/MyWebsite/
 * https://freesvgillustration.com/ provided me with free svg illustrations.
 * ChatGPT helped me in development, CSS formatting and debugging.
 * Github for free deployment of website.
-
-## Contact
-If you have any questions, suggestions, or feedback, feel free to contact me through the following channels:
-
-* Email: agkush2001@gmail.com
-* LinkedIn: https://www.linkedin.com/in/kushagra-agarwal-319245219/
 
 Thank you for visiting my personal portfolio website repository! I appreciate your interest and support.
